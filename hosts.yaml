@@ -1,0 +1,14 @@
+hosts:
+  - nome: Google DNS
+    tipo: ping
+    endereco: 8.8.8.8
+
+  - nome: Cloudflare DNS
+    tipo: ping
+    endereco: 1.1.1.1
+
+  - nome: Meu Servidor Web
+    tipo: http
+    endereco: http://192.168.1.100
+
+
