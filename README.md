@@ -16,7 +16,7 @@ Git
 
 **Instalação** 
 Clone o repositório: 
-git clone https://github.com/seu-usuario/network-monitor.git
+git clone https://github.com/matheusalmeidacunhasc/network-monitor.git
 cd network-monitor
  Crie e ative o ambiente virtual: 
 python3 -m venv venv
